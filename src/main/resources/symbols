@@ -1,0 +1,7 @@
++ - * / %                                                                                :Arithmetic
+;                                                                                        :End
+= += -= *= /=                                                                            :Assignment
+!= < <= > >= ==                                                                          :Comparison
+& && | ||                                                                                :Logical
+>> >>> << <<<                                                                            :Shift
+{ } ( )                                                                                  :Special

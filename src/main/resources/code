@@ -1,0 +1,10 @@
+boolean main(){
+        String name = "ashraf";
+        int role = 0;
+        if (name == "ali" || role == 0) {
+         return 1;
+        }
+        else {
+         return 0;
+        }
+}
